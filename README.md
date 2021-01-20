@@ -1,6 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SakuraPuare&?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraPuare&?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+![Metrics](https://metrics.lecoq.io/SakuraPuare?template=classic&followup=1&activity=1&isocalendar=1&languages=1&pagespeed=1&posts=1&stars=1&tweets=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&tweets.limit=2&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FShanghai&config.animated=true)
 **SakuraPuare/SakuraPuare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
