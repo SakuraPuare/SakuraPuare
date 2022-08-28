@@ -1,7 +1,9 @@
-👋 Hello! This is SakuraPuare！ 你好！叫我叶寄樱就好！
+## 👋 Hello, This is SakuraPuare.
 
-## My GitHub Status
+**My GitHub Status**
+
 [![SakuraPuare](https://github-readme-stats.vercel.app/api?username=SakuraPuare&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Language Status
+**My Language Status**
+
 [![SakuraPuare](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraPuare&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
