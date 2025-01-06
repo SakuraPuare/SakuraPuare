@@ -11,8 +11,7 @@
 <div align="center">
 
 [![SakuraPuare's GitHub | Stats](https://stats.quira.sh/SakuraPuare/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=SakuraPuare)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=sakurapuare&show_icons=true&theme=dracula&locale=en&count_private=true)
-
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs?username=sakurapuare&show_icons=true&theme=dracula&locale=en&count_private=true&hide=jupyter%20notebook,mathematica)
 </div>
 
 ## 📕 Technology Stack
