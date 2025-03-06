@@ -88,9 +88,7 @@
 
 <div align="center">
 
-[![SakuraPuare's GitHub | Languages Over Time](https://stats.quira.sh/SakuraPuare/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=SakuraPuare)
-[![SakuraPuare's GitHub | Topics Over Time](https://stats.quira.sh/SakuraPuare/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=SakuraPuare)
-![](https://github-readme-stats.vercel.app/api?username=sakurapuare&show_icons=true&theme=dracula&locale=en&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sakurapuare&show_icons=true&theme=dracula&locale=zh&count_private=true)
 ![](https://github-profile-trophy.vercel.app/?username=sakurapuare)
 
 </div>
