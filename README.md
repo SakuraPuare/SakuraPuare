@@ -88,7 +88,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sakurapuare&show_icons=true&theme=dracula&locale=zh&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sakurapuare&show_icons=true&theme=dracula&locale=en&count_private=true)
 ![](https://github-profile-trophy.vercel.app/?username=sakurapuare)
 
 </div>
