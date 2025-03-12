@@ -10,6 +10,7 @@
 
 <div align="center">
             
+![](https://github-readme-stats.vercel.app/api?username=sakurapuare&show_icons=true&theme=dracula&locale=en&count_private=true)          
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs?username=sakurapuare&show_icons=true&theme=dracula&locale=en&count_private=true&hide=jupyter%20notebook,mathematica)
 
 </div>
@@ -88,7 +89,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sakurapuare&show_icons=true&theme=dracula&locale=en&count_private=true)
+
 ![](https://github-profile-trophy.vercel.app/?username=sakurapuare)
 
 </div>
