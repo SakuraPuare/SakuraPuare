@@ -1,12 +1,12 @@
 <div align="center">
     <picture>
         <source media="(max-width: 767px)" srcset="./github-metrics.svg" width="100%">
-        <img src="./github-metrics.svg" alt="Metrics" width="48%" align="top">
+        <img src="./github-metrics.svg" alt="Metrics" width="50%" align="top">
     </picture>
     <picture>
         <source media="(max-width: 767px)" srcset="./asset/00000-minimized.webp" width="100%">
-        <a alt="LuoTianYi from Pixiv rokusa" href="https://www.pixiv.net/artworks/71684890">
-            <img src="./asset/00000-minimized.webp" alt="Luotianyi" width="48%" align="top">
+        <a target="_blank" alt="LuoTianYi from Pixiv rokusa" href="https://www.pixiv.net/artworks/71684890">
+            <img src="./asset/00000-minimized-720.webp" alt="Luotianyi" width="50%" align="top">
         </a>
     </picture>
 </div>
