@@ -88,7 +88,7 @@ jobs:
                   plugin_wakatime_days: 365
                   plugin_wakatime_limit: 5
                   plugin_wakatime_repositories_visibility: all
-                  plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+                  plugin_wakatime_sections: time, projects, languages, editors, os
                   plugin_wakatime_url: https://wakatime.com
                   plugin_wakatime_user: SakuraPuare
 
@@ -99,4 +99,4 @@ jobs:
                   plugin_steam_playtime_threshold: 0
                   plugin_steam_recent_games_limit: 1
                   plugin_steam_sections: player, most-played, recently-played
-                  plugin_steam_user: "76561198874274271"
+                  plugin_steam_user: "914008543"
