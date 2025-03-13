@@ -92,7 +92,7 @@ jobs:
                   plugin_wakatime_url: https://wakatime.com
                   plugin_wakatime_user: SakuraPuare
 
-                  plugin_steam: yes
+                  plugin_steam: no
                   plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
                   plugin_steam_achievements_limit: 0
                   plugin_steam_games_limit: 0
