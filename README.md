@@ -21,4 +21,10 @@
 - 💬 Ask me about **Anything if you like**
 - 📫 How to reach me **<sakurapuare@sakurapuare.com>**
 
-![](https://github-readme-stats.vercel.app/api?username=sakurapuare&show_icons=true&theme=dracula&locale=en&count_private=true)    
+<div width ="100%" display="flex" align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sakurapuare&theme=dracula&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sakurapuare&theme=default&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage">
+        <img src="https://github-readme-stats.vercel.app/api?username=sakurapuare&theme=default&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage" alt="SakuraPuare's GitHub Stats" width="48%" align="top">
+    </picture>
+</div>
