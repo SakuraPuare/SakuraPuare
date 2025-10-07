@@ -42,12 +42,12 @@ jobs:
                 plugin_activity_load: 300
                 plugin_activity_visibility: all
                 
-                plugin_habits: yes
+                plugin_habits: no
                 plugin_habits_charts_type: classic
-                plugin_habits_days: 14
+                plugin_habits_days: 365
                 plugin_habits_facts: yes
                 plugin_habits_from: 200
-                plugin_habits_languages_limit: 8
+                plugin_habits_languages_limit: 12
                 plugin_habits_languages_threshold: 0%
                 
                 plugin_introduction: yes
@@ -61,9 +61,9 @@ jobs:
                 plugin_languages_analysis_timeout_repositories: 30
                 plugin_languages_categories: markup, programming
                 plugin_languages_colors: github
-                plugin_languages_ignored: Mathematica, Jupyter Notebook, Starlark, BibTeX Style, Tex, Shell
+                plugin_languages_ignored: Mathematica, Jupyter Notebook, Starlark, BibTeX Style, Tex, Shell, HTML, QMake, CSS, 
                 plugin_languages_indepth: yes
-                plugin_languages_limit: 10
+                plugin_languages_limit: 12
                 plugin_languages_recent_categories: markup, programming
                 plugin_languages_recent_days: 14
                 plugin_languages_recent_load: 300
@@ -78,9 +78,10 @@ jobs:
                 plugin_notable: yes
                 plugin_notable_from: organization
                 plugin_notable_types: commit
+                plugin_notable_indepth: yes
                 
                 plugin_people: yes
-                plugin_people_limit: 16
+                plugin_people_limit: 12
                 plugin_people_size: 28
                 plugin_people_shuffle: yes
                 plugin_people_types: followers, following
