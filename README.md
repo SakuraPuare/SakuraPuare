@@ -4,9 +4,9 @@
         <img src="./github-metrics.svg" alt="Metrics" width="48%" align="top">
     </picture>
     <picture>
-        <source media="(max-width: 767px)" srcset="./assets/00000-minimized.webp" width="100%">
-        <a target="_blank" alt="LuoTianYi from Pixiv rokusa" href="https://www.pixiv.net/artworks/71684890">
-            <img src="./assets/00000-minimized-720.webp" alt="Luotianyi" width="48%" align="top">
+        <source media="(max-width: 767px)" srcset="./assets/130549453/130549453_p0.webp" width="100%">
+        <a target="_blank" alt="LuoTianYi from Pixiv rokusa" href="https://www.pixiv.net/artworks/130549453">
+            <img src="./assets/130549453/130549453_p0.webp" alt="Luotianyi" width="48%" align="top">
         </a>
     </picture>
 </div>
