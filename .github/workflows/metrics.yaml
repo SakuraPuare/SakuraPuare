@@ -50,8 +50,8 @@ jobs:
                 plugin_habits_languages_limit: 12
                 plugin_habits_languages_threshold: 0%
                 
-                plugin_introduction: yes
-                plugin_introduction_title: yes
+                plugin_introduction: no
+                plugin_introduction_title: no
                 
                 plugin_isocalendar: yes
                 plugin_isocalendar_duration: half-year
