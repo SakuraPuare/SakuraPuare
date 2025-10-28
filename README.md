@@ -1,13 +1,13 @@
 <div align="center">
     <picture>
         <source media="(max-width: 767px)" srcset="./assets/130549453/130549453_p0.webp" width="100%">
-        <a target="_blank" alt="LuoTianYi from Pixiv rokusa" href="https://www.pixiv.net/artworks/130549453">
-            <img src="./assets/130549453/130549453_p0.webp" alt="Luotianyi" width="55%" align="top">
+        <a target="_blank" alt="LuoTianYi from Pixiv MORI森" href="https://www.pixiv.net/artworks/130549453">
+            <img src="./assets/130549453/130549453_p0.webp" alt="Luotianyi" width="49%" align="top">
         </a>
     </picture>
         <picture>
         <source media="(max-width: 767px)" srcset="./github-metrics.svg" width="100%">
-        <img src="./github-metrics.svg" alt="Metrics" width="44%" align="top">
+        <img src="./github-metrics.svg" alt="Metrics" width="49%" align="top">
     </picture>
 </div>
 
